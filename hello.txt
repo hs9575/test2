@@ -1,1 +1,2 @@
 Github에서 수정
+clone에서 수정
